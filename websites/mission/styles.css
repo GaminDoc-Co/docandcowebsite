@@ -11,15 +11,10 @@ h1 {
     margin-bottom: 5px;
 }
 
-h2 {
-    font-size: 32px;
-}
-
-.quote {
-    font-size: 14px;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 3px solid green;
+h3 {
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 30px;
 }
 
 a {

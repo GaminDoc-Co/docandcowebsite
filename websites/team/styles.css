@@ -1,3 +1,4 @@
+
 html {
     font-family: 'Oxanium', cursive;
     background-color: black;
@@ -11,15 +12,21 @@ h1 {
     margin-bottom: 5px;
 }
 
-h2 {
+h3 {
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 30px;
+}
+
+#projects a {
+    text-decoration: none;
     font-size: 32px;
 }
 
-.quote {
-    font-size: 14px;
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 3px solid green;
+#projects ul {
+    border: 3px solid green;
+    border-radius: 10px;
+    padding: 10px;
 }
 
 a {
@@ -36,4 +43,9 @@ a:active {
 
 nav {
     text-align: right;
+}
+
+.member {
+    border: 2px solid green;
+    border-radius: 10px;
 }
